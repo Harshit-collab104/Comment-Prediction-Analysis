@@ -71,10 +71,13 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The train and test data for this project is available at the Kaggle competition:
-**[Comment Category Prediction Challenge](https://www.kaggle.com/competitions/comment-category-prediction-challenge)**
+This project is based on a **private Kaggle competition** for comment category prediction.
 
-You can download the datasets directly from the competition page and place them in the project directory.
+Dataset samples for reference are provided in:
+- **`sample_train.csv`** - Sample training data with labels
+- **`sample_test.csv`** - Sample test data without labels
+
+These files demonstrate the data structure and format used in the project.
 
 ## Usage
 
