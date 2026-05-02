@@ -69,6 +69,13 @@ conda activate comment-pred
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+The train and test data for this project is available at the Kaggle competition:
+**[Comment Category Prediction Challenge](https://www.kaggle.com/competitions/comment-category-prediction-challenge)**
+
+You can download the datasets directly from the competition page and place them in the project directory.
+
 ## Usage
 
 ### Running the Analysis
